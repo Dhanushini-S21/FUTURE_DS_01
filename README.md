@@ -90,6 +90,10 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 ---
 
+Dashboard link
+https://app.powerbi.com/groups/me/reports/245910bf-3ad4-4ef7-8caa-ae91cc076572/1a7899aae9122dc09126?experience=power-bi
+
+
 # 🔄 Project Workflow
 
 ```text
@@ -123,6 +127,3 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
                  Recommendations
 
 
-
-Dashboard link
-https://app.powerbi.com/groups/me/reports/245910bf-3ad4-4ef7-8caa-ae91cc076572/1a7899aae9122dc09126?experience=power-bi
