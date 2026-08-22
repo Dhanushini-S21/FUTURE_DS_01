@@ -51,6 +51,8 @@ The analysis aims to answer the following questions:
 
 The project uses the **Online Retail Dataset**, which contains transaction-level information from an online retail business.
 
+https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+
 ### Dataset Attributes
 
 | Column | Description |
